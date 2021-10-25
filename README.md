@@ -14,5 +14,5 @@ The Stanford Question Answering Dataset (SQuAD), which is derived from Wikipedia
 - In order to increase the accuracy of the model given data to model should be enhanced. 
 
 ## Model:
-To train the model, LSTM architecture have been chosen.
+To train the model, Seq2Seq architecture have been chosen.
 
