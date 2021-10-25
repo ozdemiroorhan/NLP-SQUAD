@@ -1,5 +1,4 @@
-# NLP-SQUAD
-### NLP-CHATBOT USING LSTM ARCHITECTURE 
+# CHATBOT-SQUAD
 
 ## Requirements
 - Tensorflow=2.4.0
