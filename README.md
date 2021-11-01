@@ -15,6 +15,14 @@ The Stanford Question Answering Dataset (SQuAD), which is derived from Wikipedia
 - Given data to the model should be enhanced in order to increase the accuracy.
 
 
+## Folders:
+# Data: 
+- Downloaded data is in this folder. Dowloading script is available in Preporeccsing.py. The program automatically will download it under Data folder, if it is exist.
+# Image: 
+- Model accuracy will be saved in this folder after training process.
+# Weight
+- Model weight, encoder and decoder model will be saved under this folder.
+
 ## Model:
 To train the model, Seq2Seq architecture have been chosen.
 
