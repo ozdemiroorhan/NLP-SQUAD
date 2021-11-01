@@ -27,4 +27,4 @@ The Stanford Question Answering Dataset (SQuAD), which is derived from Wikipedia
 To train the model, Seq2Seq architecture have been chosen.
 
 ## Running:
-- "main.py" must be run in virtual environment with system requirements. 
+- The "main.py" file must be run in virtual environment with the system requirements. 
