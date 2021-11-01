@@ -12,7 +12,7 @@ The Stanford Question Answering Dataset (SQuAD), which is derived from Wikipedia
 
 - Due to a lack of RAM, only 10.000 pairs have been used for training of the Seq2Seq model.
 - According to the results, given questions to the model can be predicted by the model accurately.
-- Given data to the model should be enhanced in order to increase the accuracy.
+- Given data to the model should be enhanced in order to increase the accuracy of the model.
 
 
 ## Folders:
