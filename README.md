@@ -17,14 +17,12 @@ The Stanford Question Answering Dataset (SQuAD), which is derived from Wikipedia
 ## Folders:
 ### Data: 
 - Downloaded data will be saved in this folder. Dowloading script is available in "Preporeccsing file.py". The program will download it in Data folder, if the folder is exist.
-### Image: 
-- The picture of model history will be saved in this folder after training process.
 ### Weight:
 - Model weight, encoder and decoder model will be saved in this folder.
 
 
 ## Model:
-To train the model, Seq2Seq architecture have been chosen.
+Seq2Seq architecture have been chosen to train the model.
 
 ## Running:
 - The "main.py" file must be run in virtual environment with the system requirements. 
