@@ -18,7 +18,7 @@ class Training:
     def __init__(self,):
         self.dimensionality = 512
         self.batch_size = 32
-        self.epochs = 5
+        self.epochs = 300
 
         self.image_path = "Image"
         self.data_path = "Data"
