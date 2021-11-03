@@ -20,7 +20,7 @@ The Stanford Question Answering Dataset (SQuAD), which is derived from Wikipedia
 ### Weight:
 - Model weight, encoder and decoder model will be saved in this folder.
 ### Image:
-- The picture of the model's accuracy end loss values will be saved in this folder.
+- The picture of the model's history will be saved in this folder.
 
 
 ## Model:
