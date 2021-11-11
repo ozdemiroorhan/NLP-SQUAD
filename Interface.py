@@ -53,14 +53,7 @@ class Interface:
                                 text="Send",
                                 command=lambda: self.take_input(self.input))
 
-        del_input = tkinter.Button(self.window,
-                                   height=2,
-                                   width=20,
-                                   text="Delete",
-                                   command=self.delete_text)
-
-        button.place(x=self.window_width - 650, y=self.window_height - 40)
-        del_input.place(x=self.window_width - 400, y=self.window_height - 40)
+        button.place(x=self.window_width - 600, y=self.window_height - 40)
 
     def take_input(self, input):
 
@@ -71,6 +64,8 @@ class Interface:
 
             answer = self.test.predict(self.input_text)
             self.text_field.insert(END, "Bot: " + answer + "\n \n")
+
+            input.delete("0.0", END)
 
     def delete_text(self):
         self.input.delete("1.0", "end")
