@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/87471617/140063943-754d35aa-e806-4234-
 ## Requirements
 - Tensorflow=2.4.0
 - CUDA=11.2
-- CUDNN=11.4
+- CUDNN=11.4 (necessary only for gpu computing (optional))
 - Python 3.6
 
 ## Dataset
