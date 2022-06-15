@@ -19,7 +19,7 @@ The Stanford Question Answering Dataset (SQuAD), which is derived from Wikipedia
 
 ## Folders:
 ### Data: 
-- Downloaded data will be saved in this folder. Dowloading script is available in "Preporeccsing file.py". The program will download it in Data folder, if the folder is exist.
+- Downloaded data will be saved in this folder. Dowloading script is available in "Preporeccsing file.py". The program will download it in Data folder, if the folder exists.
 ### Weight:
 - Model weight, encoder and decoder model will be saved in this folder.
 ### Image:
